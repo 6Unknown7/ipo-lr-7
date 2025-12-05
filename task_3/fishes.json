@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Окунь",
+    "latin_name": "Perca fluviatilis",
+    "is_salt_water_fish": false,
+    "sub_type_count": 3
+  },
+  {
+    "id": 2,
+    "name": "Лосось",
+    "latin_name": "Salmo salar",
+    "is_salt_water_fish": true,
+    "sub_type_count": 5
+  },
+  {
+    "id": 3,
+    "name": "Щука",
+    "latin_name": "Esox lucius",
+    "is_salt_water_fish": false,
+    "sub_type_count": 7
+  },
+  {
+    "id": 4,
+    "name": "Тунец",
+    "latin_name": "Thunnus",
+    "is_salt_water_fish": true,
+    "sub_type_count": 15
+  },
+  {
+    "id": 5,
+    "name": "Карп",
+    "latin_name": "Cyprinus carpio",
+    "is_salt_water_fish": false,
+    "sub_type_count": 12
+  }
+]
